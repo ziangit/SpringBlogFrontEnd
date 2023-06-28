@@ -21,25 +21,24 @@ Users can create an account and log into the application.
 
 After a successful login, users are able to create a new blog post.
 
-![Post]([url-of-post-screenshot](https://ibb.co/f43GfV3))
+![Post](https://i.ibb.co/W3ksN4p/P.png)
 
 ### Read All Posts
 
 Users can read all the posts made on the platform, regardless of who the author is.
 
-![All Posts]([url-of-all-posts-screenshot](https://ibb.co/J5tjz7s))
+![All Posts](https://i.ibb.co/m8dyVRJ/RAP.png)
 
 ### Read Single Post
 
 Users can open and read a single post in more detail.
 
-![Single Post]([url-of-single-post-screenshot](https://ibb.co/8s61ScB))
+![Single Post](https://i.ibb.co/dLQ6YqC/RS.png)
 
 ### Logout
 
 Users can log out from their account, and their session will be securely terminated.
 
-![Logout]([url-of-logout-screenshot](https://ibb.co/ydSz3Mr))
 
 
 ## Code scaffolding

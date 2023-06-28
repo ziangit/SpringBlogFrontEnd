@@ -15,7 +15,7 @@ This application provides a user-friendly interface for a blogging platform with
 Users can create an account and log into the application. 
 
 ![Login](https://i.ibb.co/0GfC6D1/login.png)
-![Register]([url-of-register-screenshot](https://ibb.co/dcH8bNv))
+![Register](https://i.ibb.co/9vdQwx0/register.png)
 
 ### Post After Authentication
 

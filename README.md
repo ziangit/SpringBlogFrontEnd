@@ -39,6 +39,22 @@ Users can open and read a single post in more detail.
 
 Users can log out from their account, and their session will be securely terminated.
 
+## Future Features
+
+I am constantly working to improve NgSpringBlogFrontend and expand its capabilities. Here are a few features I am planning to implement in the future:
+
+### Search
+
+In a future version of NgSpringBlogFrontend, I plan to implement a search feature. This will allow users to easily find specific posts by searching for keywords in the post titles or content.
+
+### Admin Realm
+
+I am also working on adding an admin realm. This feature will allow admins to manage users and posts in a more streamlined and efficient way. 
+
+### User Interaction
+
+To enhance user engagement, I am planning to add comment, reply, rate the post and other features to make the blog more interactive
+
 
 
 ## Code scaffolding

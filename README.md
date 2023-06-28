@@ -55,6 +55,7 @@ I am also working on adding an admin realm. This feature will allow admins to ma
 
 To enhance user engagement, I am planning to add comment, reply, rate the post and other features to make the blog more interactive
 
+Stay tuned for these exciting updates!
 
 
 ## Code scaffolding

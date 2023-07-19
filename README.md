@@ -17,7 +17,8 @@ This application provides a user-friendly interface for a blogging platform with
 
 Users can create an account and log into the application. 
 
-![Login](https://i.ibb.co/y6d1p9q/L.png)
+![login](https://github.com/ziangit/SpringBlogFrontEnd/assets/110576506/84371fcc-5100-4e67-936b-052d0f282b2a)
+
 ![Register](https://i.ibb.co/TPDRMG9/R.png)
 
 ### Post After Authentication
